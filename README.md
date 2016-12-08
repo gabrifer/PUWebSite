@@ -1,2 +1,2 @@
 # PUWebSite
-Website feito para a Pastoral Católica de Itajubá
+Website feito para a Pastoral Universitária Católica de Itajubá
