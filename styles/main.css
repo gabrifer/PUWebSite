@@ -16,5 +16,10 @@ a {
 
 li {
 	list-style: none;
+	float: left;
 
+}
+
+nav {
+	float: right;
 }
